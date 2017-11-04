@@ -5,7 +5,7 @@ Easily bundle react.js scripts (thx to fastlane80)
 
 ## First Run
 
-`npm install`
+`yarn install`
 
 ## Usage
 
