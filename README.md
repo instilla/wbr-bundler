@@ -9,6 +9,6 @@ Easily bundle react.js scripts (thx to fastlane80)
 
 ## Usage
 
-To automatically build `index.jsx` on every change run `npm run dev`
+To automatically build `index.jsx` on every change run `yarn run dev`
 
-To build `index.jsx` for development run `npm run build`
+To build `index.jsx` for development run `yarn run build`
